@@ -1,2 +1,3 @@
 # tha_formula
-A racing simulator 4 fun
+Formula is a racing simulation i made for testing my skills on python :) 
+Feel free to suggest for every improvement :)
